@@ -1,0 +1,28 @@
+DR-001
+Satya Nadella
+CEO
+5000850
+SC-002
+Anna Jorge
+VISE-directeur
+700000
+PG-003
+Bill Gates
+Directeur
+10000000
+CP-004
+Ahmed Raoufe
+Directeur zone 
+6487000
+CF-005
+Mamadou Yati
+Adjoint 
+140000
+FF-006
+Frederic Yan
+Chargé des Affaire
+14600000
+FR-007
+Mohammed El-hachm
+Dircteur Marketing Service
+14580000
